@@ -14,6 +14,7 @@ module.exports = {
         santasGray: 'hsl(258, 7%, 63%)',
         turquoise: 'hsl(180, 66%, 49%)',
         martinique: 'hsl(258, 27%, 26%)',
+        darkGray: 'rgb(35, 33, 39)'
       },
       fontFamily: {
         sans: ['Poppins', 'sans-serif'],
